@@ -1,0 +1,26 @@
+*.iml
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+# OS files
+Thumbs.db
+# Logs
+*.log
+# Generated APK / AAB
+*.apk
+*.aab
+# Firebase
+google-services.json
+# Keystore files (VERY IMPORTANT)
+*.jks
+*.keystore
+# External native build
+.externalNativeBuild/
+.cxx/
+# Kotlin
+.kotlin/

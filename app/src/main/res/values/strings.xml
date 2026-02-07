@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">ReFocus</string>
+
+    <!-- Main Screen -->
+    <string name="app_title">ReFocus</string>
+    <string name="app_tagline">
+        Hide short-form content and focus on long-form videos.
+    </string>
+
+    <!-- Toggle -->
+    <string name="toggle_hide_shorts">Hide Shorts</string>
+
+    <!-- Buttons -->
+    <string name="enable_accessibility">Enable Accessibility</string>
+
+    <!-- Accessibility Disclosure -->
+    <string name="accessibility_disclosure">
+        ReFocus uses Android Accessibility Service only to hide short-form UI elements.
+        No data is collected or shared.
+    </string>
+
+</resources>

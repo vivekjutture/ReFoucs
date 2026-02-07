@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ReFocus" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary accent (soft blue, not neon) -->
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorPrimaryVariant">#64B5F6</item>
+        <item name="colorOnPrimary">#000000</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">#90CAF9</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <!-- Dark backgrounds -->
+        <item name="android:colorBackground">#121212</item>
+        <item name="colorSurface">#1E1E1E</item>
+        <item name="colorOnSurface">#E0E0E0</item>
+
+        <!-- Disable action bar -->
+        <item name="android:windowActionBar">false</item>
+
+    </style>
+
+</resources>
