@@ -137,7 +137,8 @@ Permissions are declared in **AndroidManifest.xml**
 
 ```bash
 <service
-    android:name=".RefocusAccessibilityService"      android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+    android:name=".RefocusAccessibilityService"
+    android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
     android:exported="false">
 ```
 
