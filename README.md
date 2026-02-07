@@ -214,6 +214,8 @@ Read the full privacy policy here: 👉 **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 This project is licensed under the **Apache License 2.0**.
 👉 **[LICENSE](LICENSE)**
 
+---
+
 ## 🚫 Out-of-Scope Contributions
 
 ❌ Root-only solutions  
