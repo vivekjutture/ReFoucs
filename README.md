@@ -1,4 +1,4 @@
-# Refocus 🧠📱
+# ReFocus 🧠📱
 
 **A focus-first Android app to reduce short-form video distractions**
 
@@ -6,7 +6,7 @@
 
 ## 🚧 Project Status: In Progress
 
-⚠️ Refocus is **actively under development** and **not finished yet**.  
+⚠️ ReFocus is **actively under development** and **not finished yet**.  
 Features, behavior, and implementation details may change as experimentation continues.
 
 ---
@@ -14,7 +14,7 @@ Features, behavior, and implementation details may change as experimentation con
 ## 🎯 Motivation
 
 Short-form video feeds like **YouTube Shorts** and **Instagram Reels** are engineered for endless engagement.  
-Refocus is built for users who want to consume **long-form content intentionally** and reduce distraction — without rooting, patching, or modifying third-party apps.
+ReFocus is built for users who want to consume **long-form content intentionally** and reduce distraction — without rooting, patching, or modifying third-party apps.
 
 This project explores what is **realistically possible** within official Android and Google Play Store boundaries.
 
@@ -35,7 +35,7 @@ This project explores what is **realistically possible** within official Android
 
 ## 🧠 Technical Approach (Experimental)
 
-Refocus experiments with **focus-oriented behavioral control** using official Android system APIs.
+ReFocus experiments with **focus-oriented behavioral control** using official Android system APIs.
 
 Main components used:
 
@@ -57,7 +57,7 @@ This repository documents **learning and experimentation**, not a guaranteed sol
 
 ## 🚧 Current Limitations
 
-Refocus **cannot**:
+ReFocus **cannot**:
 
 ❌ Reliably remove Shorts from YouTube feeds  
 ❌ Block ads inside YouTube  
@@ -205,7 +205,7 @@ Please read the full contribution guidelines here: 👉 **[CONTRIBUTING.md](CONT
 
 ## 🔐 Privacy
 
-Refocus does **not collect, store, or transmit any personal data**.  
+ReFocus does **not collect, store, or transmit any personal data**.  
 Read the full privacy policy here: 👉 **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)**
 
 ---
@@ -239,7 +239,7 @@ Accessibility usage exists **only** to support focus-related behavior.
 
 ## ⚠️ Disclaimer
 
-Refocus is:
+ReFocus is:
 ❗ Not affiliated with Google, YouTube, Meta, or any other platform  
 ❗ Not a YouTube mod or ad blocker  
 ❗ Not guaranteed to block all short-form content
@@ -255,4 +255,4 @@ If your goal is complete removal of Shorts and ads, patched clients or alternati
 🛠️ Share honest engineering lessons  
 🌱 Encourage healthier, more intentional content consumption
 
-Refocus prioritizes **legality, transparency, and sustainability** over hacks or shortcuts.
+ReFocus prioritizes **legality, transparency, and sustainability** over hacks or shortcuts.
