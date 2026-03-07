@@ -1,4 +1,4 @@
-package com.personal.refoucs
+package com.personal.refocus
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -17,8 +17,7 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
-        // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.personal.refoucs", appContext.packageName)
+        assertEquals("com.personal.refocus", appContext.packageName)
     }
 }

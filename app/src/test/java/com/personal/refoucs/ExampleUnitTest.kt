@@ -1,4 +1,4 @@
-package com.personal.refoucs
+package com.personal.refocus
 
 import org.junit.Test
 

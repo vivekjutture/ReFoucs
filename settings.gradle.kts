@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ReFoucs"
+rootProject.name = "ReFocus"
 include(":app")

@@ -1,4 +1,4 @@
-package com.personal.refoucs
+package com.personal.refocus
 
 import android.content.Intent
 import android.os.Bundle

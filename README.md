@@ -1,4 +1,4 @@
-# Refocus 🧠📱
+# ReFocus 🧠📱
 
 **A focus-first Android app to reduce short-form video distractions**
 

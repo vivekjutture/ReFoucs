@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.personal.refoucs"
+    namespace = "com.personal.refocus"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.personal.refoucs"
+        applicationId = "com.personal.refocus"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
