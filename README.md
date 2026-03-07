@@ -94,7 +94,7 @@ These are **intentional platform limitations**, not implementation bugs.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/vivekjutture/ReFoucs.git
+   git clone https://github.com/vivekjutture/ReFocus.git
    ```
 
 2. **Open** the cloned folder in **Android Studio**
