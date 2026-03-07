@@ -1,6 +1,6 @@
-# Contributing to Refocus 🤝
+# Contributing to ReFocus 🤝
 
-Thank you for your interest in contributing to Refocus!  
+Thank you for your interest in contributing to ReFocus!  
 This project is exploratory and research-driven, and contributions are welcome as long as they respect Android platform and Play Store constraints.
 
 ---

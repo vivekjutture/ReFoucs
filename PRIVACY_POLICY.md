@@ -2,13 +2,13 @@
 
 Effective Date: [Add Date]
 
-Refocus respects your privacy. This app is designed to function **entirely on-device** without collecting or transmitting personal data.
+ReFocus respects your privacy. This app is designed to function **entirely on-device** without collecting or transmitting personal data.
 
 ---
 
 ## 📵 Data Collection
 
-Refocus does **NOT**:
+ReFocus does **NOT**:
 - Collect personal information
 - Track user behavior
 - Use analytics or telemetry
@@ -19,7 +19,7 @@ Refocus does **NOT**:
 
 ## ♿ Accessibility Usage
 
-Refocus uses Android Accessibility APIs **only** to support focus-related functionality.
+ReFocus uses Android Accessibility APIs **only** to support focus-related functionality.
 
 Accessibility is used to:
 - Observe navigation events
@@ -31,7 +31,7 @@ No screen content, text, or user input is stored or transmitted.
 
 ## 🌐 Network Access
 
-Refocus does not perform any network requests.  
+ReFocus does not perform any network requests.  
 The app works completely offline.
 
 ---
